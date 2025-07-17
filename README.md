@@ -8,7 +8,7 @@
 - 🛠️ Skills: `C++` | `Python` | `HTML/CSS/JS` | `React` | `Unity (C#)` | `SQL`
 - 🎮 Built a few indie games & experimental projects that you’ll soon find here!
 - ✍️ I also sketch, paint, and design — creativity keeps me sane
-- 📫 Reach me: [aznawarali@gmail.com](mailto:aliaznawarofficial@gmail.com)
+- 📫 Reach me: [aznawar@gmail.com](mailto:aliaznawarofficial@gmail.com)
 
 ---
 
